@@ -1,2 +1,2 @@
 # Rent-it
-Author- Tanisha Gupta
+Author- Tanisha Gupta(MNNIT)
